@@ -99,11 +99,9 @@ KPIs, Segment distribution, average balance, credit score, churn rate by segment
 
 ---
 
-## Contact
 
-**Joachin Agu**  
-**LinkedIn:** https://www.linkedin.com/in/joachin-agu-4342581b2/  
-**Portfolio:** https://joachinmj.wixsite.com/joachin-agu/resume
+## Live Dashboard
+🔗 [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZjc2YTBjNzMtZmFkNC00MjQ1LWE3ZDItM2NiMGNmMWRiYjdkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 
 
